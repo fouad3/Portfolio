@@ -31,7 +31,7 @@ git clone https://github.com/fouad3/Portfolio_udacity_project.git
 Get to the project folder and click on [portfolio.html](https://github.com/fouad3/Portfolio_udacity_project/blob/master/portfolio.html) and Your default browser should launch a new tab displaying the portfolio website.
 
 
-To run grunt you have to run the following(optional):
+#### To run grunt you have to run the following (optional):
 
 1-Navigate to the project directory using the following command:
 
