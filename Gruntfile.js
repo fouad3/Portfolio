@@ -1,6 +1,6 @@
 module.exports = function ( grunt ) {
 	grunt.initConfig( {
-		//converte images to webo format
+		//converte images to webp format
 		cwebp: {
 			images: {
 				options: {
@@ -14,7 +14,7 @@ module.exports = function ( grunt ) {
 	 ]
 			}
 		},
-		//create images at different resolutions
+		//create images with different resolutions and optmize them
 		responsive_images: {
 			dev: {
 				options: {
