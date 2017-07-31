@@ -16,7 +16,7 @@ Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--
 
 ## Required Libraries and Dependencies
 
--To use grunt you have to do the following (optional):
+To use grunt you have to do the following (optional):
 1. install nodejs you can download it from https://nodejs.org/en/download/
 2. install image magic you can download it from https://www.imagemagick.org/script/download.php
 
