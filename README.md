@@ -69,9 +69,9 @@ grunt
 
 #### Gruntfile.js
 [Gruntfile.js](https://github.com/fouad3/Portfolio_udacity_project/blob/master/Gruntfile.js) javascript file consist of three functions:
-1-cwebp:converte images to webp format.
-2-responsive_images:create images with different resolutions and optmize them.
-3-copy:copy svg images from images_src folder to images folder.
+1. cwebp:converte images to webp format.
+2. responsive_images:create images with different resolutions and optmize them.
+3. copy:copy svg images from images_src folder to images folder.
 
 
 ## Copyright and License
