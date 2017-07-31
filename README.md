@@ -62,7 +62,7 @@ html file consist of four semantic elements:
 1. header: consist of  logo and name 
 2. main section: consist of feature work articles 
 3. article: consist of link,image and header of project
-4. footer: consist of paragraphs of information about the author of the website and its social networks (facebook,github...)
+4. footer: consist of paragraphs of information about the author of the website and his social networks (facebook,github...)
 
 #### [style.css](https://github.com/fouad3/Portfolio_udacity_project/blob/master/css/style.css)
 css file contains the style of [portflio.html](https://github.com/fouad3/Portfolio_udacity_project/blob/master/portfolio.html) file 
