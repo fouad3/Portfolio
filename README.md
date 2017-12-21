@@ -11,7 +11,7 @@
 - [Copyright and license](#copyright-and-license)
  
 ## Description
-This is a simple portfolio website which displays a listing of my projects in full stack web development career,this project is a part of the Udacity [Full Stack Web Developer
+Portfolio website which displays images, descriptions and links to each of the portfolio projects  I completed throughout the course of my Nanodegree program, this project is a part of Udacity's [Full Stack Web Developer
 Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
 ## Required Libraries and Dependencies
@@ -69,9 +69,9 @@ css file contains the style of [portflio.html](https://github.com/fouad3/Portfol
 
 #### [Gruntfile.js](https://github.com/fouad3/Portfolio_udacity_project/blob/master/Gruntfile.js)
 javascript file consist of three functions:
-1. cwebp:converte images to webp format.
-2. responsive_images:create images with different resolutions and optmize them.
-3. copy:copy svg images from images_src folder to images folder.
+1. cwebp: converte images to webp format.
+2. responsive_images: create images with different resolutions and optmize them.
+3. copy: copy svg images from images_src folder to images folder.
 
 
 ## Copyright and License
